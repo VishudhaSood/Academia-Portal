@@ -329,6 +329,5 @@ into a modular, scalable, and professional Linux system programming application.
 
 <div align="center">
 
-### 🌟 If you found this project interesting, consider giving it a star!
 
 </div>
