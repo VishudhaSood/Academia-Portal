@@ -1,0 +1,29 @@
+[Thu Apr 30 18:41:16 2026] SERVER START
+[Thu Apr 30 18:46:23 2026] SERVER START
+[Thu Apr 30 18:47:40 2026] LOGIN admin (admin)
+[Thu Apr 30 18:47:55 2026] New user added: james
+[Thu Apr 30 18:48:08 2026] New user added: rc
+[Thu Apr 30 18:48:38 2026] LOGOUT admin
+[Thu Apr 30 18:48:52 2026] LOGIN faculty (rc)
+[Thu Apr 30 18:49:31 2026] Course added: CS111 by rc (cap=4)
+[Thu Apr 30 18:49:44 2026] LOGOUT faculty (rc)
+[Thu Apr 30 18:50:01 2026] LOGIN student (james)
+[Thu Apr 30 18:50:19 2026] james enrolled in CS101
+[Thu Apr 30 18:50:35 2026] james enrolled in CS111
+[Thu Apr 30 18:50:56 2026] james dropped CS111
+[Thu Apr 30 18:51:05 2026] LOGOUT student (james)
+[Thu Apr 30 18:51:15 2026] LOGIN student (alice)
+[Thu Apr 30 18:51:29 2026] alice waitlisted for CS101
+[Thu Apr 30 18:51:36 2026] LOGOUT student (alice)
+[Thu Apr 30 18:51:46 2026] LOGIN student (james)
+[Thu Apr 30 18:51:52 2026] james dropped CS101; auto-promoted alice
+[Thu Apr 30 18:51:52 2026] [IPC/FIFO] Auto-promotion: alice -> CS101
+[Thu Apr 30 18:52:07 2026] LOGOUT student (james)
+[Thu Apr 30 18:52:17 2026] LOGIN faculty (rc)
+[Thu Apr 30 18:52:39 2026] LOGOUT faculty (rc)
+[Sun May  3 06:30:03 2026] SERVER START
+[Sun May  3 06:30:24 2026] LOGIN admin (admin)
+[Sun May  3 10:11:35 2026] LOGOUT admin
+[Sun May  3 10:22:18 2026] SERVER START
+[Sun May  3 10:22:32 2026] LOGIN admin (admin)
+[Sun May  3 10:22:40 2026] New user added: abc

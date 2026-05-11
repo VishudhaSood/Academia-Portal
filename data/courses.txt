@@ -1,0 +1,5 @@
+CS101:prof1:2:2
+CS102:prof2:3:0
+CS205:prof1:3:0
+CS067:prof67:1:0
+CS111:rc:4:0
